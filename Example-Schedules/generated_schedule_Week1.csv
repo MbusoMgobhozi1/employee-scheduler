@@ -1,0 +1,10 @@
+Week,Employee,Monday (1st),Tuesday (2nd),Wednesday (3rd),Thursday (4th),Friday (5th),Saturday (6th),Sunday (7th)
+Week 1,Alice,Early,Early,Early,Normal,Normal,Off,Off
+Week 1,Bob,Normal,Normal,Late,Late,Off,Off,Early
+Week 1,Charlie,Late,Late,Off,Off,Early,Normal,Normal
+Week 1,David,Off,Off,Early,Normal,Normal,Late,Late
+Week 1,Eva,Normal,Normal,Late,Late,Off,Off,Early
+Week 1,Frank,Late,Late,Off,Off,Early,Normal,Normal
+Week 1,Grace,Off,Off,Early,Normal,Normal,Late,Late
+Week 1,Hannah,Normal,Normal,Late,Late,Off,Off,Early
+Week 1,Mbuso,Late,Late,Off,Off,Early,Normal,Normal
